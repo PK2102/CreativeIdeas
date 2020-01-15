@@ -1,0 +1,20 @@
+.Heading
+{
+  color: green;
+}
+.header
+{
+  flex-shrink: 0;
+  width: 100%;
+
+}
+.test
+{
+  width: 50%;
+}
+.login
+{
+  position: absolute;
+  right: 0;
+
+}
